@@ -1,0 +1,6 @@
+[project]
+name = "gitignore-audit"
+version = "1.0.0"
+description = "Find tracked Git files that match current ignore rules."
+requires-python = ">=3.10"
+dependencies = []
